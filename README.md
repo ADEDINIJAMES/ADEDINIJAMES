@@ -66,14 +66,11 @@
 - **Description**: A blog post API (REST API) where the owner can post different designs of his projects and other users can comment and like.
 - **Technologies**: H2 Database, Spring Boot, JWT, Spring Security, Google OAuth2, PostgreSQL.
 - **GitHub Repo**: [Fashion Blog](https://github.com/ADEDINIJAMES/FashionBlog_RestApI)
-- **Live Demo**: [Fashion Blog Demo](https://fashionblog.janedoe.com)
 
 ### Ecommerce App (Shopping)
 - **Description**: A trade store application for fashion where users can browse through different products, add to cart, checkout, and make purchases.
 - **Technologies**: Java, Servlet, MySQL.
 - **GitHub Repo**: [Ecommerce App](https://github.com/ADEDINIJAMES/JSP-Servlet-DAO-JDBC-database-connection)
-- **Live Demo**: [Ecommerce Demo](https://ecommerceapp.janedoe.com)
-
 
 ## Contact
 - **Email**: [adedinijames28@gmail.com](mailto:adedinijames28@gmail.com)
