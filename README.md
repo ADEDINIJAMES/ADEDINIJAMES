@@ -53,8 +53,7 @@
 ### Smart Quiz App (Quiz)
 - **Description**: A full-stack software that allows examiners to set and manage quizzes and invite students to take them.
 - **Technologies**: Java Spring Boot, Spring Security, JWT, MySQL, ReactJS, Google OAuth.
-- **GitHub Repo**: [Smart Quiz App](https://github.com/ADEDINIJAMES/SmartQuizApp)
-- **Live Demo**: [Smart Quiz Demo](https://smartquizz.netlify.app/)
+- **GitHub Repo**: [Smart Quiz App Backend ]([https://github.com/ADEDINIJAMES/smartquizAppBackend])[Smart Quiz App FrontEnd]([https://github.com/ADEDINIJAMES/smartquizAppFrontEnd])
 
 ### Airway (Flight Booking)
 
