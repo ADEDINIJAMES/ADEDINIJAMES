@@ -24,6 +24,17 @@
 
 ## Professional Experience
 
+### Backend Engineer
+**Simplify Synergy** | Abuja, Nigeria | Present
+- Optimized database queries and schema designs (PostgreSQL, MongoDB), reducing response time by up to 40%, improving app performance and data integrity.
+- Designed, developed, and maintained scalable RESTful APIs and microservices using Java (Spring Boot)
+- Implemented secure authentication and authorization systems (JWT, OAuth2).
+- Accelerated project delivery speed by 20% and improved team alignment through cross-functional collaboration, software design drafting, and Agile/Scrum methodologies.
+- Integrated third-party services (e.g., payment gateways, messaging APIs) and internal systems to streamline business workflows.
+- Contributed to code reviews and Agile sprint planning, actively improving code quality and delivery timelines.
+- Proactively identified and resolved bugs, improving application stability and reducing error rates in production..
+
+
 ### Software Engineer
 **Decagon** | Lagos, Nigeria | Present
 - Spearheaded the development of Smart Quiz and Airway projects using Java, Servlet, and Spring Boot.
