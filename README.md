@@ -24,7 +24,7 @@
 
 ## Professional Experience
 
-### Backend Engineer
+### Backend Engineer (2025 - present)
 **Simplify Synergy** | Abuja, Nigeria | Present
 - Optimized database queries and schema designs (PostgreSQL, MongoDB), reducing response time by up to 40%, improving app performance and data integrity.
 - Designed, developed, and maintained scalable RESTful APIs and microservices using Java (Spring Boot)
@@ -35,7 +35,7 @@
 - Proactively identified and resolved bugs, improving application stability and reducing error rates in production..
 
 
-### Software Engineer
+### Software Engineer(2023 - 2025)
 **Decagon** | Lagos, Nigeria | Present
 - Spearheaded the development of Smart Quiz and Airway projects using Java, Servlet, and Spring Boot.
 - Enhanced data retrieval efficiency by 30% by optimizing MySQL and Postgres databases.
